@@ -141,3 +141,4 @@ Edit `config.json` to add your Microsoft account profiles:
 - [2026-04-03 02:27:44] Update documentation
 - [2026-06-11 02:27:44] Update configuration
 - [2026-01-15 02:27:44] Add unit tests
+- [2025-10-15 02:27:44] Add API endpoints
