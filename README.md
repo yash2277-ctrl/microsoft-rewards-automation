@@ -197,3 +197,4 @@ Edit `config.json` to add your Microsoft account profiles:
 - [2025-11-12 02:27:44] Fix bugs and issues
 - [2026-01-17 02:27:44] Improve logging
 - [2026-03-13 02:27:44] Add new features
+- [2025-12-19 02:27:44] Improve accessibility
