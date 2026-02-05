@@ -150,3 +150,4 @@ Edit `config.json` to add your Microsoft account profiles:
 - [2025-10-21 02:27:44] Add API endpoints
 - [2025-12-19 02:27:44] Improve UI/UX
 - [2025-09-27 02:27:44] Add unit tests
+- [2026-02-06 02:27:44] Improve accessibility
