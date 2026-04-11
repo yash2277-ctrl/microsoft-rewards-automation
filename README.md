@@ -213,3 +213,4 @@ Edit `config.json` to add your Microsoft account profiles:
 - [2025-11-04 02:27:44] Improve accessibility
 - [2025-08-15 02:27:44] Update configuration
 - [2026-04-24 02:27:44] Update configuration
+- [2026-04-12 02:27:44] Update README
