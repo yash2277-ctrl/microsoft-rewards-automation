@@ -125,3 +125,4 @@ Edit `config.json` to add your Microsoft account profiles:
 - [2026-05-11 02:27:44] Add validation
 - [2026-06-05 02:27:44] Add unit tests
 - [2025-10-25 02:27:44] Fix bugs and issues
+- [2026-05-20 02:27:44] Optimize queries
