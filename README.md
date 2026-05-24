@@ -64,3 +64,5 @@ Edit `config.json` to add your Microsoft account profiles:
 - **2026-08-05**: refactor: Improve code structure
 
 - **2026-05-07**: Update README
+
+- **2026-05-25**: Improve error handling
