@@ -90,3 +90,4 @@ Edit `config.json` to add your Microsoft account profiles:
 
 - [2025-12-28 02:27:44] Clean up code
 - [2026-03-31 02:27:44] Add API endpoints
+- [2026-05-28 02:27:44] Improve performance
