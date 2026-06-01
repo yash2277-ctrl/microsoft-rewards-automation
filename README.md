@@ -160,3 +160,4 @@ Edit `config.json` to add your Microsoft account profiles:
 - [2026-03-10 02:27:44] Optimize queries
 - [2026-02-01 02:27:44] Improve performance
 - [2026-05-11 02:27:44] Improve UI/UX
+- [2026-06-02 02:27:44] Refactor code structure
