@@ -74,3 +74,5 @@ Edit `config.json` to add your Microsoft account profiles:
 - **2026-06-02**: Update dependencies
 
 - **2026-06-03**: Add tests
+
+- **2026-06-09**: Refactor code
