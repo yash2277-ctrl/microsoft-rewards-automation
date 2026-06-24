@@ -172,3 +172,4 @@ Edit `config.json` to add your Microsoft account profiles:
 - [2026-07-05 02:27:44] Update README
 - [2025-10-16 02:27:44] Add API endpoints
 - [2025-09-10 02:27:44] Fix typos
+- [2026-06-25 02:27:44] Add validation
