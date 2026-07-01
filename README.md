@@ -82,3 +82,5 @@ Edit `config.json` to add your Microsoft account profiles:
 - **2026-06-18**: Add tests
 
 - **2026-06-28**: Update documentation
+
+- **2026-07-02**: Fix bugs
