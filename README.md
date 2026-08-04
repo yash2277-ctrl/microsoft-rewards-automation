@@ -1,0 +1,45 @@
+# Microsoft Rewards Automation
+
+Automated Microsoft Rewards points collector for multiple accounts.
+
+## Features
+
+- Automated daily searches (PC and Mobile)
+- Multiple profile support (4 accounts)
+- Automatic profile switching
+- Daily limit detection
+- Headless or visible browser mode
+- Progress tracking and logging
+
+## Requirements
+
+- Python 3.8+
+- Microsoft Edge browser
+- Microsoft accounts with Rewards enabled
+
+## Installation
+
+1. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+2. Configure your accounts in `config.json`
+
+3. Run the automation:
+```bash
+python main.py
+```
+
+## Configuration
+
+Edit `config.json` to add your Microsoft account profiles:
+- Profile names from Edge browser
+- Daily search limits
+- Automation settings
+
+## Safety Notes
+
+- This tool is for educational purposes
+- Use responsibly and comply with Microsoft Terms of Service
+- Daily limits prevent excessive usage
