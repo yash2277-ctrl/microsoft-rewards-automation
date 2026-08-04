@@ -43,3 +43,8 @@ Edit `config.json` to add your Microsoft account profiles:
 - This tool is for educational purposes
 - Use responsibly and comply with Microsoft Terms of Service
 - Daily limits prevent excessive usage
+
+
+## Recent Updates
+
+- **2026-08-05**: docs: Add API documentation
