@@ -52,3 +52,5 @@ Edit `config.json` to add your Microsoft account profiles:
 - **2026-08-05**: docs: Add API documentation
 
 - **2026-08-05**: docs: Add API documentation
+
+- **2026-08-05**: refactor: Improve code structure
